@@ -14,7 +14,7 @@ header{
     margin-top:60px;
     display:flex;
     height: 300px;
-    min-width: 100%;
+    min-width: 25rem;
     background-size:cover;
     background-image: url("test_back.jpg");
 }
